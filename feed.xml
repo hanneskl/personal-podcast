@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/modules/content/">
   <channel>
     <title>Hannes Reading List</title>
     <description>Documents Hannes wants read.</description>
+    <link>https://hanneskl.github.io/personal-podcast/feed.xml</link>
+    <language>de-de</language>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:author>Hannes Reading List</itunes:author>
+  <image>
+    <url>https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/Hannes%20Selfie%20-%20Clone%20Wars%20Style%20-%20Black.png.png</url>
+    <title>Hannes Reading List</title>
+    <link>https://hanneskl.github.io/personal-podcast/feed.xml</link>
+  </image>
+  <itunes:image href="https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/Hannes%20Selfie%20-%20Clone%20Wars%20Style%20-%20Black.png.png"/>
+
+  <item>
+    <title>News für Hannes — Montag, 22. Juni 2026</title>
+    <guid isPermaLink="false">https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-22.mp3</guid>
+    <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
+    <enclosure url="https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-22.mp3" length="17523360" type="audio/mpeg"/>
+    <itunes:duration>18:15</itunes:duration>
+    <itunes:episode>1</itunes:episode>
+    <description>Persönliches Morgenbriefing für Hannes. Hormus, Vance verhandelt mit dem Iran, Kolumbien rückt nach rechts, Anthropic-Exportbann und dein Tag in München.</description>
+  </item>
   </channel>
 </rss>
