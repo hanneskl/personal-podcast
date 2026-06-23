@@ -38,5 +38,13 @@
     "mp3_url": "https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-23-news-fuer-hannes-23-06-2026-4-6-ki.mp3",
     "duration_seconds": 227,
     "file_size_bytes": 3637920
+  },
+  {
+    "date": "2026-06-23",
+    "title": "News für Hannes 23.06.2026 — 5/6 Tech",
+    "description": "Teil 5 von 6 — Tech: SK Hynix überholt Samsung, Google erschwert Android-Sideloading drastisch, 29 Jahre alter „Squidbleed\"-Bug leckt Klartext.",
+    "mp3_url": "https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-23-news-fuer-hannes-23-06-2026-5-6-tech.mp3",
+    "duration_seconds": 206,
+    "file_size_bytes": 3303360
   }
 ]
