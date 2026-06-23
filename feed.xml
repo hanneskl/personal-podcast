@@ -17,23 +17,23 @@
   <itunes:image href="https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/Hannes%20Selfie%20-%20Clone%20Wars%20Style%20-%20Black.png.png"/>
 
   <item>
+    <title>News für Hannes 23.06.2026 — 1/6 Deutschland</title>
+    <guid isPermaLink="false">https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-23.mp3</guid>
+    <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
+    <enclosure url="https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-23.mp3" length="4106880" type="audio/mpeg"/>
+    <itunes:duration>4:17</itunes:duration>
+    <itunes:episode>2</itunes:episode>
+    <description>Teil 1 von 6 — Deutschland: Niedersachsens Medienpranger, Merz beim Tag der Industrie, AfD vor der Union im Politbarometer.</description>
+  </item>
+
+  <item>
     <title>Test — kurz</title>
     <guid isPermaLink="false">https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-22.mp3</guid>
     <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
     <enclosure url="https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-22.mp3" length="56640" type="audio/mpeg"/>
     <itunes:duration>0:04</itunes:duration>
-    <itunes:episode>2</itunes:episode>
-    <description>Test</description>
-  </item>
-
-  <item>
-    <title>News für Hannes — Montag, 22. Juni 2026</title>
-    <guid isPermaLink="false">https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-22.mp3</guid>
-    <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
-    <enclosure url="https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-22.mp3" length="17532480" type="audio/mpeg"/>
-    <itunes:duration>18:16</itunes:duration>
     <itunes:episode>1</itunes:episode>
-    <description>Persönliches Morgenbriefing für Hannes. Hormus, Vance verhandelt mit dem Iran, Kolumbien rückt nach rechts, Anthropic-Exportbann und dein Tag in München.</description>
+    <description>Test</description>
   </item>
   </channel>
 </rss>
