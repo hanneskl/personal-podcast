@@ -22,7 +22,7 @@
     <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
     <enclosure url="https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-23-news-fuer-hannes-23-06-2026-1-6-deutschland.mp3" length="4109280" type="audio/mpeg"/>
     <itunes:duration>4:17</itunes:duration>
-    <itunes:episode>6</itunes:episode>
+    <itunes:episode>7</itunes:episode>
     <description>Teil 1 von 6 — Deutschland: Niedersachsens Medienpranger, Merz beim Tag der Industrie, AfD vor der Union im Politbarometer.</description>
   </item>
 
@@ -32,7 +32,7 @@
     <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
     <enclosure url="https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-23-news-fuer-hannes-23-06-2026-2-6-usa.mp3" length="3892800" type="audio/mpeg"/>
     <itunes:duration>4:03</itunes:duration>
-    <itunes:episode>5</itunes:episode>
+    <itunes:episode>6</itunes:episode>
     <description>Teil 2 von 6 — USA: Alan Greenspan mit 100 gestorben, Supreme Court kippt privates Wahlrechts-Klagerecht, Alphabet verliert 250 Mrd. durch KI-Abgänge.</description>
   </item>
 
@@ -42,7 +42,7 @@
     <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
     <enclosure url="https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-23-news-fuer-hannes-23-06-2026-3-6-welt.mp3" length="3238080" type="audio/mpeg"/>
     <itunes:duration>3:22</itunes:duration>
-    <itunes:episode>4</itunes:episode>
+    <itunes:episode>5</itunes:episode>
     <description>Teil 3 von 6 — Welt: Starmer tritt als britischer Premier zurück, USA und Iran einigen sich auf eine 60-Tage-Road-Map, China sanktioniert US-Rüstungsfirmen.</description>
   </item>
 
@@ -52,7 +52,7 @@
     <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
     <enclosure url="https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-23-news-fuer-hannes-23-06-2026-4-6-ki.mp3" length="3637920" type="audio/mpeg"/>
     <itunes:duration>3:47</itunes:duration>
-    <itunes:episode>3</itunes:episode>
+    <itunes:episode>4</itunes:episode>
     <description>Teil 4 von 6 — KI: Sakana kontert den Export-Bann mit Fugu Ultra, Fable-5-Gratisfenster endet bei Dauer-Blackout, 42 Generalstaatsanwälte untersuchen OpenAI.</description>
   </item>
 
@@ -62,8 +62,18 @@
     <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
     <enclosure url="https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-23-news-fuer-hannes-23-06-2026-5-6-tech.mp3" length="3303360" type="audio/mpeg"/>
     <itunes:duration>3:26</itunes:duration>
-    <itunes:episode>2</itunes:episode>
+    <itunes:episode>3</itunes:episode>
     <description>Teil 5 von 6 — Tech: SK Hynix überholt Samsung, Google erschwert Android-Sideloading drastisch, 29 Jahre alter „Squidbleed&quot;-Bug leckt Klartext.</description>
+  </item>
+
+  <item>
+    <title>News für Hannes 23.06.2026 — 6/6 Märkte &amp; Dein Tag</title>
+    <guid isPermaLink="false">https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-23-news-fuer-hannes-23-06-2026-6-6-maerkte-dein-tag.mp3</guid>
+    <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
+    <enclosure url="https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-23-news-fuer-hannes-23-06-2026-6-6-maerkte-dein-tag.mp3" length="2897760" type="audio/mpeg"/>
+    <itunes:duration>3:01</itunes:duration>
+    <itunes:episode>2</itunes:episode>
+    <description>Teil 6 von 6 — Märkte &amp; Dein Tag: DAX über 25.000, Wetter mit Gewitterrisiko, Kalenderkonflikt IT-Support/Unterricht um 13:30, plus Reminder.</description>
   </item>
 
   <item>
