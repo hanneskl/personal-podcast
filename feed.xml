@@ -22,8 +22,18 @@
     <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
     <enclosure url="https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-23-news-fuer-hannes-23-06-2026-1-6-deutschland.mp3" length="4109280" type="audio/mpeg"/>
     <itunes:duration>4:17</itunes:duration>
-    <itunes:episode>2</itunes:episode>
+    <itunes:episode>3</itunes:episode>
     <description>Teil 1 von 6 — Deutschland: Niedersachsens Medienpranger, Merz beim Tag der Industrie, AfD vor der Union im Politbarometer.</description>
+  </item>
+
+  <item>
+    <title>News für Hannes 23.06.2026 — 2/6 USA</title>
+    <guid isPermaLink="false">https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-23-news-fuer-hannes-23-06-2026-2-6-usa.mp3</guid>
+    <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
+    <enclosure url="https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-23-news-fuer-hannes-23-06-2026-2-6-usa.mp3" length="3892800" type="audio/mpeg"/>
+    <itunes:duration>4:03</itunes:duration>
+    <itunes:episode>2</itunes:episode>
+    <description>Teil 2 von 6 — USA: Alan Greenspan mit 100 gestorben, Supreme Court kippt privates Wahlrechts-Klagerecht, Alphabet verliert 250 Mrd. durch KI-Abgänge.</description>
   </item>
 
   <item>
