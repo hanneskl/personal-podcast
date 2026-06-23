@@ -30,5 +30,13 @@
     "mp3_url": "https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-23-news-fuer-hannes-23-06-2026-3-6-welt.mp3",
     "duration_seconds": 202,
     "file_size_bytes": 3238080
+  },
+  {
+    "date": "2026-06-23",
+    "title": "News für Hannes 23.06.2026 — 4/6 KI",
+    "description": "Teil 4 von 6 — KI: Sakana kontert den Export-Bann mit Fugu Ultra, Fable-5-Gratisfenster endet bei Dauer-Blackout, 42 Generalstaatsanwälte untersuchen OpenAI.",
+    "mp3_url": "https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-23-news-fuer-hannes-23-06-2026-4-6-ki.mp3",
+    "duration_seconds": 227,
+    "file_size_bytes": 3637920
   }
 ]
