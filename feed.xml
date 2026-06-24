@@ -22,7 +22,7 @@
     <pubDate>Wed, 24 Jun 2026 00:00:00 GMT</pubDate>
     <enclosure url="https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-24-news-fuer-hannes-24-06-2026-teil-1-deutschland.mp3" length="4117920" type="audio/mpeg"/>
     <itunes:duration>4:17</itunes:duration>
-    <itunes:episode>9</itunes:episode>
+    <itunes:episode>10</itunes:episode>
     <description>Tägliches Morgenbriefing für Hannes – Teil 1 von 6: Opening und Deutschland (Rentenkommission, Medienpranger, Tag der Industrie).</description>
   </item>
 
@@ -32,8 +32,18 @@
     <pubDate>Wed, 24 Jun 2026 00:00:00 GMT</pubDate>
     <enclosure url="https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-24-news-fuer-hannes-24-06-2026-teil-2-usa.mp3" length="3407520" type="audio/mpeg"/>
     <itunes:duration>3:33</itunes:duration>
-    <itunes:episode>8</itunes:episode>
+    <itunes:episode>9</itunes:episode>
     <description>Tägliches Morgenbriefing für Hannes – Teil 2 von 6: USA (New Yorker Vorwahlen, US-Iran-Verhandlungen, Wohnungsbau-Gesetz).</description>
+  </item>
+
+  <item>
+    <title>News für Hannes – 24.06.2026 – Teil 3: Welt</title>
+    <guid isPermaLink="false">https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-24-news-fuer-hannes-24-06-2026-teil-3-welt.mp3</guid>
+    <pubDate>Wed, 24 Jun 2026 00:00:00 GMT</pubDate>
+    <enclosure url="https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-24-news-fuer-hannes-24-06-2026-teil-3-welt.mp3" length="3343200" type="audio/mpeg"/>
+    <itunes:duration>3:29</itunes:duration>
+    <itunes:episode>8</itunes:episode>
+    <description>Tägliches Morgenbriefing für Hannes – Teil 3 von 6: Welt (Iran-Raketenstreit, EU-Taliban-Gespräche, Ukraine-Drohnenangriff auf Moskau).</description>
   </item>
 
   <item>
