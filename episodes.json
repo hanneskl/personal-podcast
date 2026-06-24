@@ -70,5 +70,13 @@
     "mp3_url": "https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-24-news-fuer-hannes-24-06-2026-teil-2-usa.mp3",
     "duration_seconds": 213,
     "file_size_bytes": 3407520
+  },
+  {
+    "date": "2026-06-24",
+    "title": "News für Hannes – 24.06.2026 – Teil 3: Welt",
+    "description": "Tägliches Morgenbriefing für Hannes – Teil 3 von 6: Welt (Iran-Raketenstreit, EU-Taliban-Gespräche, Ukraine-Drohnenangriff auf Moskau).",
+    "mp3_url": "https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-24-news-fuer-hannes-24-06-2026-teil-3-welt.mp3",
+    "duration_seconds": 209,
+    "file_size_bytes": 3343200
   }
 ]
