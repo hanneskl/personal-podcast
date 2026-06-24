@@ -86,5 +86,13 @@
     "mp3_url": "https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-24-news-fuer-hannes-24-06-2026-teil-4-ki.mp3",
     "duration_seconds": 219,
     "file_size_bytes": 3503040
+  },
+  {
+    "date": "2026-06-24",
+    "title": "News für Hannes – 24.06.2026 – Teil 5: Tech",
+    "description": "Tägliches Morgenbriefing für Hannes – Teil 5 von 6: Tech (Steam Machine Preis, Halbleiter-Ausverkauf, WhatsApp-Chefwechsel).",
+    "mp3_url": "https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-24-news-fuer-hannes-24-06-2026-teil-5-tech.mp3",
+    "duration_seconds": 202,
+    "file_size_bytes": 3229440
   }
 ]
