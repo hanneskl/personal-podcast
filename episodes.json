@@ -94,5 +94,13 @@
     "mp3_url": "https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-24-news-fuer-hannes-24-06-2026-teil-5-tech.mp3",
     "duration_seconds": 202,
     "file_size_bytes": 3229440
+  },
+  {
+    "date": "2026-06-24",
+    "title": "News für Hannes – 24.06.2026 – Teil 6: Märkte & Dein Tag",
+    "description": "Tägliches Morgenbriefing für Hannes – Teil 6 von 6: Märkte (DAX, S&P 500, Bitcoin, EUR/USD) und Dein Tag (Wetter, Kalender, Reminders, Mails).",
+    "mp3_url": "https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-24-news-fuer-hannes-24-06-2026-teil-6-maerkte-dein-tag.mp3",
+    "duration_seconds": 160,
+    "file_size_bytes": 2556000
   }
 ]
