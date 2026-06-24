@@ -62,5 +62,13 @@
     "mp3_url": "https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-24-news-fuer-hannes-24-06-2026-teil-1-deutschland.mp3",
     "duration_seconds": 257,
     "file_size_bytes": 4117920
+  },
+  {
+    "date": "2026-06-24",
+    "title": "News für Hannes – 24.06.2026 – Teil 2: USA",
+    "description": "Tägliches Morgenbriefing für Hannes – Teil 2 von 6: USA (New Yorker Vorwahlen, US-Iran-Verhandlungen, Wohnungsbau-Gesetz).",
+    "mp3_url": "https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-24-news-fuer-hannes-24-06-2026-teil-2-usa.mp3",
+    "duration_seconds": 213,
+    "file_size_bytes": 3407520
   }
 ]
