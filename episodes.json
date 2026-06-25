@@ -134,5 +134,13 @@
     "mp3_url": "https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-25-news-fuer-hannes-25-06-2026-teil-4-ki.mp3",
     "duration_seconds": 187,
     "file_size_bytes": 2999520
+  },
+  {
+    "date": "2026-06-25",
+    "title": "News für Hannes — 25.06.2026 — Teil 5: Tech",
+    "description": "Micron-Rekordquartal, Cordyceps-CI/CD-Lücke, OpenAI-Chip Jalapeño.",
+    "mp3_url": "https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-25-news-fuer-hannes-25-06-2026-teil-5-tech.mp3",
+    "duration_seconds": 195,
+    "file_size_bytes": 3120000
   }
 ]
