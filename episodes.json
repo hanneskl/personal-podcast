@@ -126,5 +126,13 @@
     "mp3_url": "https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-25-news-fuer-hannes-25-06-2026-teil-3-welt.mp3",
     "duration_seconds": 184,
     "file_size_bytes": 2940960
+  },
+  {
+    "date": "2026-06-25",
+    "title": "News für Hannes — 25.06.2026 — Teil 4: KI",
+    "description": "GPT-5.5-Cyber, SpaceX-Reflection-Deal, Jumper zu Anthropic.",
+    "mp3_url": "https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-25-news-fuer-hannes-25-06-2026-teil-4-ki.mp3",
+    "duration_seconds": 187,
+    "file_size_bytes": 2999520
   }
 ]
