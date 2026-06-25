@@ -22,7 +22,7 @@
     <pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
     <enclosure url="https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-25-news-fuer-hannes-25-06-2026-teil-1-deutschland.mp3" length="4020000" type="audio/mpeg"/>
     <itunes:duration>4:11</itunes:duration>
-    <itunes:episode>18</itunes:episode>
+    <itunes:episode>19</itunes:episode>
     <description>Bahn-Totalausfall, Rentenkommission, Medienpranger, AfD-Umfrage.</description>
   </item>
 
@@ -32,7 +32,7 @@
     <pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
     <enclosure url="https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-25-news-fuer-hannes-25-06-2026-teil-2-usa.mp3" length="2676480" type="audio/mpeg"/>
     <itunes:duration>2:47</itunes:duration>
-    <itunes:episode>17</itunes:episode>
+    <itunes:episode>18</itunes:episode>
     <description>Landesweite Schnellabschiebungen, Trumps NATO-Drohung, NYC-Vorwahlen.</description>
   </item>
 
@@ -42,7 +42,7 @@
     <pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
     <enclosure url="https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-25-news-fuer-hannes-25-06-2026-teil-3-welt.mp3" length="2940960" type="audio/mpeg"/>
     <itunes:duration>3:04</itunes:duration>
-    <itunes:episode>16</itunes:episode>
+    <itunes:episode>17</itunes:episode>
     <description>Atom-Inspektionsstreit, Israel-Hisbollah, Ukraine-Krim, Ebola Kongo.</description>
   </item>
 
@@ -52,7 +52,7 @@
     <pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
     <enclosure url="https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-25-news-fuer-hannes-25-06-2026-teil-4-ki.mp3" length="2999520" type="audio/mpeg"/>
     <itunes:duration>3:07</itunes:duration>
-    <itunes:episode>15</itunes:episode>
+    <itunes:episode>16</itunes:episode>
     <description>GPT-5.5-Cyber, SpaceX-Reflection-Deal, Jumper zu Anthropic.</description>
   </item>
 
@@ -62,8 +62,18 @@
     <pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
     <enclosure url="https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-25-news-fuer-hannes-25-06-2026-teil-5-tech.mp3" length="3120000" type="audio/mpeg"/>
     <itunes:duration>3:15</itunes:duration>
-    <itunes:episode>14</itunes:episode>
+    <itunes:episode>15</itunes:episode>
     <description>Micron-Rekordquartal, Cordyceps-CI/CD-Lücke, OpenAI-Chip Jalapeño.</description>
+  </item>
+
+  <item>
+    <title>News für Hannes — 25.06.2026 — Teil 6: Märkte &amp; Dein Tag</title>
+    <guid isPermaLink="false">https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-25-news-fuer-hannes-25-06-2026-teil-6-maerkte-dein-tag.mp3</guid>
+    <pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
+    <enclosure url="https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-25-news-fuer-hannes-25-06-2026-teil-6-maerkte-dein-tag.mp3" length="3021600" type="audio/mpeg"/>
+    <itunes:duration>3:09</itunes:duration>
+    <itunes:episode>14</itunes:episode>
+    <description>Märkte, Wetter, Kalenderknoten (Golf vs. Optiker), Reminders.</description>
   </item>
 
   <item>
