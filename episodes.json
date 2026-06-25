@@ -110,5 +110,13 @@
     "mp3_url": "https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-25-news-fuer-hannes-25-06-2026-teil-1-deutschland.mp3",
     "duration_seconds": 251,
     "file_size_bytes": 4020000
+  },
+  {
+    "date": "2026-06-25",
+    "title": "News für Hannes — 25.06.2026 — Teil 2: USA",
+    "description": "Landesweite Schnellabschiebungen, Trumps NATO-Drohung, NYC-Vorwahlen.",
+    "mp3_url": "https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-25-news-fuer-hannes-25-06-2026-teil-2-usa.mp3",
+    "duration_seconds": 167,
+    "file_size_bytes": 2676480
   }
 ]
