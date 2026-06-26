@@ -22,7 +22,7 @@
     <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
     <enclosure url="https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-26-news-fuer-hannes-26-06-2026-teil-1-deutschland.mp3" length="4636800" type="audio/mpeg"/>
     <itunes:duration>4:50</itunes:duration>
-    <itunes:episode>22</itunes:episode>
+    <itunes:episode>23</itunes:episode>
     <description>Tägliches Morgenbriefing. Teil 1 von 6 — Deutschland: Hitzerekord, Rentenkommission, Social-Media-Verbot.</description>
   </item>
 
@@ -32,7 +32,7 @@
     <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
     <enclosure url="https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-26-news-fuer-hannes-26-06-2026-teil-2-usa.mp3" length="3486240" type="audio/mpeg"/>
     <itunes:duration>3:38</itunes:duration>
-    <itunes:episode>21</itunes:episode>
+    <itunes:episode>22</itunes:episode>
     <description>Teil 2 von 6 — USA: Trump blockiert Wohnungsbaugesetz, Briefwahl-Dekret gekippt, Mamdani-Linke siegt.</description>
   </item>
 
@@ -42,8 +42,18 @@
     <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
     <enclosure url="https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-26-news-fuer-hannes-26-06-2026-teil-3-welt.mp3" length="3818400" type="audio/mpeg"/>
     <itunes:duration>3:59</itunes:duration>
-    <itunes:episode>20</itunes:episode>
+    <itunes:episode>21</itunes:episode>
     <description>Teil 3 von 6 — Welt: Erdbeben in Venezuela, Iran-Angriff in Hormus, Südafrika-Ultimatum.</description>
+  </item>
+
+  <item>
+    <title>News für Hannes — 26.06.2026 — Teil 4: KI</title>
+    <guid isPermaLink="false">https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-26-news-fuer-hannes-26-06-2026-teil-4-ki.mp3</guid>
+    <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
+    <enclosure url="https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-26-news-fuer-hannes-26-06-2026-teil-4-ki.mp3" length="3312480" type="audio/mpeg"/>
+    <itunes:duration>3:27</itunes:duration>
+    <itunes:episode>20</itunes:episode>
+    <description>Teil 4 von 6 — KI: OpenAI-Codex-Report, Google-Talentabgang zu Anthropic, Self-Harness.</description>
   </item>
 
   <item>
