@@ -166,5 +166,13 @@
     "mp3_url": "https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-26-news-fuer-hannes-26-06-2026-teil-2-usa.mp3",
     "duration_seconds": 218,
     "file_size_bytes": 3486240
+  },
+  {
+    "date": "2026-06-26",
+    "title": "News für Hannes — 26.06.2026 — Teil 3: Welt",
+    "description": "Teil 3 von 6 — Welt: Erdbeben in Venezuela, Iran-Angriff in Hormus, Südafrika-Ultimatum.",
+    "mp3_url": "https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-26-news-fuer-hannes-26-06-2026-teil-3-welt.mp3",
+    "duration_seconds": 239,
+    "file_size_bytes": 3818400
   }
 ]
