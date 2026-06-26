@@ -182,5 +182,13 @@
     "mp3_url": "https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-26-news-fuer-hannes-26-06-2026-teil-4-ki.mp3",
     "duration_seconds": 207,
     "file_size_bytes": 3312480
+  },
+  {
+    "date": "2026-06-26",
+    "title": "News für Hannes — 26.06.2026 — Teil 5: Tech",
+    "description": "Teil 5 von 6 — Tech: Apple-Preiserhöhung, TSMC-Wafer-Preise, Cisco-Sicherheitslücke.",
+    "mp3_url": "https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-26-news-fuer-hannes-26-06-2026-teil-5-tech.mp3",
+    "duration_seconds": 221,
+    "file_size_bytes": 3530400
   }
 ]
