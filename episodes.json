@@ -190,5 +190,13 @@
     "mp3_url": "https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-26-news-fuer-hannes-26-06-2026-teil-5-tech.mp3",
     "duration_seconds": 221,
     "file_size_bytes": 3530400
+  },
+  {
+    "date": "2026-06-26",
+    "title": "News für Hannes — 26.06.2026 — Teil 6: Märkte & Dein Tag",
+    "description": "Teil 6 von 6 — Märkte und persönlicher Tagesüberblick: Wetter, Kalender, Reminders, E-Mail.",
+    "mp3_url": "https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-26-news-fuer-hannes-26-06-2026-teil-6-maerkte-dein-tag.mp3",
+    "duration_seconds": 207,
+    "file_size_bytes": 3313920
   }
 ]
