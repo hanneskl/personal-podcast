@@ -150,5 +150,13 @@
     "mp3_url": "https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-25-news-fuer-hannes-25-06-2026-teil-6-maerkte-dein-tag.mp3",
     "duration_seconds": 189,
     "file_size_bytes": 3021600
+  },
+  {
+    "date": "2026-06-26",
+    "title": "News für Hannes — 26.06.2026 — Teil 1: Deutschland",
+    "description": "Tägliches Morgenbriefing. Teil 1 von 6 — Deutschland: Hitzerekord, Rentenkommission, Social-Media-Verbot.",
+    "mp3_url": "https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-26-news-fuer-hannes-26-06-2026-teil-1-deutschland.mp3",
+    "duration_seconds": 290,
+    "file_size_bytes": 4636800
   }
 ]
