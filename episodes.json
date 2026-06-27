@@ -206,5 +206,13 @@
     "mp3_url": "https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-27-news-fuer-hannes-27-06-2026-teil-1-deutschland.mp3",
     "duration_seconds": 265,
     "file_size_bytes": 4237440
+  },
+  {
+    "date": "2026-06-27",
+    "title": "News für Hannes — 27.06.2026 — Teil 2: USA",
+    "description": "Morgenbriefing für Hannes, 27. Juni 2026. Teil 2: USA — Iran-Kriegsvollmachten-Resolution gekippt, zwei SCOTUS-Einwanderungssiege, Hawaii-Waffengesetz fällt.",
+    "mp3_url": "https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-27-news-fuer-hannes-27-06-2026-teil-2-usa.mp3",
+    "duration_seconds": 223,
+    "file_size_bytes": 3567840
   }
 ]
