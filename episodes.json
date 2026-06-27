@@ -230,5 +230,13 @@
     "mp3_url": "https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-27-news-fuer-hannes-27-06-2026-teil-4-ki.mp3",
     "duration_seconds": 207,
     "file_size_bytes": 3314400
+  },
+  {
+    "date": "2026-06-27",
+    "title": "News für Hannes — 27.06.2026 — Teil 5: Tech",
+    "description": "Morgenbriefing für Hannes, 27. Juni 2026. Teil 5: Tech — Xbox-Preiserhöhung, aktiv ausgenutzte Splunk- und Chrome-Lücken, Windows-Insider für Retail.",
+    "mp3_url": "https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-27-news-fuer-hannes-27-06-2026-teil-5-tech.mp3",
+    "duration_seconds": 205,
+    "file_size_bytes": 3276960
   }
 ]
