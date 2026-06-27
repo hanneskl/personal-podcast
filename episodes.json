@@ -222,5 +222,13 @@
     "mp3_url": "https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-27-news-fuer-hannes-27-06-2026-teil-3-welt.mp3",
     "duration_seconds": 202,
     "file_size_bytes": 3228960
+  },
+  {
+    "date": "2026-06-27",
+    "title": "News für Hannes — 27.06.2026 — Teil 4: KI",
+    "description": "Morgenbriefing für Hannes, 27. Juni 2026. Teil 4: KI — GPT-5.6 nur für Partner auf Regierungsgeheiß, OpenAI/Broadcom-Chip Jalapeño, Patronus AI.",
+    "mp3_url": "https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-27-news-fuer-hannes-27-06-2026-teil-4-ki.mp3",
+    "duration_seconds": 207,
+    "file_size_bytes": 3314400
   }
 ]
