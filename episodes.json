@@ -214,5 +214,13 @@
     "mp3_url": "https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-27-news-fuer-hannes-27-06-2026-teil-2-usa.mp3",
     "duration_seconds": 223,
     "file_size_bytes": 3567840
+  },
+  {
+    "date": "2026-06-27",
+    "title": "News für Hannes — 27.06.2026 — Teil 3: Welt",
+    "description": "Morgenbriefing für Hannes, 27. Juni 2026. Teil 3: Welt — US-Schläge gegen Iran in Hormus, Venezuela-Erdbeben, Ukraine isoliert die Krim.",
+    "mp3_url": "https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-27-news-fuer-hannes-27-06-2026-teil-3-welt.mp3",
+    "duration_seconds": 202,
+    "file_size_bytes": 3228960
   }
 ]
