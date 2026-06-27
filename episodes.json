@@ -238,5 +238,13 @@
     "mp3_url": "https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-27-news-fuer-hannes-27-06-2026-teil-5-tech.mp3",
     "duration_seconds": 205,
     "file_size_bytes": 3276960
+  },
+  {
+    "date": "2026-06-27",
+    "title": "News für Hannes — 27.06.2026 — Teil 6: Märkte & Dein Tag",
+    "description": "Morgenbriefing für Hannes, 27. Juni 2026. Teil 6: Märkte, dein Tag (Golf, Terminkonflikte am Nachmittag) und Send-off.",
+    "mp3_url": "https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-27-news-fuer-hannes-27-06-2026-teil-6-maerkte-dein-tag.mp3",
+    "duration_seconds": 227,
+    "file_size_bytes": 3636960
   }
 ]
