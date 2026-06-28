@@ -262,5 +262,13 @@
     "mp3_url": "https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-28-news-fuer-hannes-28-06-2026-teil-2-usa.mp3",
     "duration_seconds": 134,
     "file_size_bytes": 2145120
+  },
+  {
+    "date": "2026-06-28",
+    "title": "News für Hannes — 28.06.2026 — Teil 3: Welt",
+    "description": "Teil 3: Welt — Iran-Waffenruhe und Straße von Hormuz, Ukraine-Großoffensive, Erdbeben in Venezuela.",
+    "mp3_url": "https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-28-news-fuer-hannes-28-06-2026-teil-3-welt.mp3",
+    "duration_seconds": 212,
+    "file_size_bytes": 3399840
   }
 ]
