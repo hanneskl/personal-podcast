@@ -286,5 +286,13 @@
     "mp3_url": "https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-28-news-fuer-hannes-28-06-2026-teil-5-tech.mp3",
     "duration_seconds": 177,
     "file_size_bytes": 2828160
+  },
+  {
+    "date": "2026-06-28",
+    "title": "News für Hannes — 28.06.2026 — Teil 6: Märkte & Dein Tag",
+    "description": "Teil 6: Märkte, dein Tag (Golf in Elkofen, Kalender, Reminders, Wetter) und Verabschiedung.",
+    "mp3_url": "https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-28-news-fuer-hannes-28-06-2026-teil-6-maerkte-dein-tag.mp3",
+    "duration_seconds": 167,
+    "file_size_bytes": 2671680
   }
 ]
