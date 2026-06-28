@@ -278,5 +278,13 @@
     "mp3_url": "https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-28-news-fuer-hannes-28-06-2026-teil-4-ki.mp3",
     "duration_seconds": 204,
     "file_size_bytes": 3256320
+  },
+  {
+    "date": "2026-06-28",
+    "title": "News für Hannes — 28.06.2026 — Teil 5: Tech",
+    "description": "Teil 5: Tech — Windows Secure-Boot-Zertifikate, FBI/CISA-Warnung zu Signal, Polymarket Supply-Chain-Hack.",
+    "mp3_url": "https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-28-news-fuer-hannes-28-06-2026-teil-5-tech.mp3",
+    "duration_seconds": 177,
+    "file_size_bytes": 2828160
   }
 ]
