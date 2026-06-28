@@ -22,7 +22,7 @@
     <pubDate>Sun, 28 Jun 2026 00:00:00 GMT</pubDate>
     <enclosure url="https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-28-news-fuer-hannes-28-06-2026-teil-1-deutschland.mp3" length="4359360" type="audio/mpeg"/>
     <itunes:duration>4:32</itunes:duration>
-    <itunes:episode>35</itunes:episode>
+    <itunes:episode>36</itunes:episode>
     <description>Dein tägliches Briefing, Teil 1: Opening und Deutschland — AfD-Parteitag Erfurt, VW-Werksschließungen, Rentenreform.</description>
   </item>
 
@@ -32,7 +32,7 @@
     <pubDate>Sun, 28 Jun 2026 00:00:00 GMT</pubDate>
     <enclosure url="https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-28-news-fuer-hannes-28-06-2026-teil-2-usa.mp3" length="2145120" type="audio/mpeg"/>
     <itunes:duration>2:14</itunes:duration>
-    <itunes:episode>34</itunes:episode>
+    <itunes:episode>35</itunes:episode>
     <description>Teil 2: USA — Supreme Court, Senats-Stichwahl in Louisiana, ICE-Direktor, Israel-Libanon.</description>
   </item>
 
@@ -42,7 +42,7 @@
     <pubDate>Sun, 28 Jun 2026 00:00:00 GMT</pubDate>
     <enclosure url="https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-28-news-fuer-hannes-28-06-2026-teil-3-welt.mp3" length="3399840" type="audio/mpeg"/>
     <itunes:duration>3:32</itunes:duration>
-    <itunes:episode>33</itunes:episode>
+    <itunes:episode>34</itunes:episode>
     <description>Teil 3: Welt — Iran-Waffenruhe und Straße von Hormuz, Ukraine-Großoffensive, Erdbeben in Venezuela.</description>
   </item>
 
@@ -52,8 +52,18 @@
     <pubDate>Sun, 28 Jun 2026 00:00:00 GMT</pubDate>
     <enclosure url="https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-28-news-fuer-hannes-28-06-2026-teil-4-ki.mp3" length="3256320" type="audio/mpeg"/>
     <itunes:duration>3:24</itunes:duration>
-    <itunes:episode>32</itunes:episode>
+    <itunes:episode>33</itunes:episode>
     <description>Teil 4: KI — Googles Talentflucht und Börsenverlust, GPT-5.6-Verschiebung, Ende von GPT-4.5 und Preiskrieg.</description>
+  </item>
+
+  <item>
+    <title>News für Hannes — 28.06.2026 — Teil 5: Tech</title>
+    <guid isPermaLink="false">https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-28-news-fuer-hannes-28-06-2026-teil-5-tech.mp3</guid>
+    <pubDate>Sun, 28 Jun 2026 00:00:00 GMT</pubDate>
+    <enclosure url="https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-28-news-fuer-hannes-28-06-2026-teil-5-tech.mp3" length="2828160" type="audio/mpeg"/>
+    <itunes:duration>2:57</itunes:duration>
+    <itunes:episode>32</itunes:episode>
+    <description>Teil 5: Tech — Windows Secure-Boot-Zertifikate, FBI/CISA-Warnung zu Signal, Polymarket Supply-Chain-Hack.</description>
   </item>
 
   <item>
