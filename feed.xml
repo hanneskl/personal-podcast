@@ -22,7 +22,7 @@
     <pubDate>Mon, 29 Jun 2026 00:00:00 GMT</pubDate>
     <enclosure url="https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-29-news-fuer-hannes-29-06-2026-teil-1-deutschland.mp3" length="4071840" type="audio/mpeg"/>
     <itunes:duration>4:14</itunes:duration>
-    <itunes:episode>40</itunes:episode>
+    <itunes:episode>41</itunes:episode>
     <description>Hitzerekord 41,7 Grad in Brandenburg, Waldbrände, Reformgipfel im Kanzleramt.</description>
   </item>
 
@@ -32,7 +32,7 @@
     <pubDate>Mon, 29 Jun 2026 00:00:00 GMT</pubDate>
     <enclosure url="https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-29-news-fuer-hannes-29-06-2026-teil-2-usa.mp3" length="2510880" type="audio/mpeg"/>
     <itunes:duration>2:37</itunes:duration>
-    <itunes:episode>39</itunes:episode>
+    <itunes:episode>40</itunes:episode>
     <description>Neuer ICE-Direktor, Big Beautiful Bill und Studienkredite, Feuerwehrleute in Colorado getötet.</description>
   </item>
 
@@ -42,8 +42,18 @@
     <pubDate>Mon, 29 Jun 2026 00:00:00 GMT</pubDate>
     <enclosure url="https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-29-news-fuer-hannes-29-06-2026-teil-3-welt.mp3" length="3120000" type="audio/mpeg"/>
     <itunes:duration>3:15</itunes:duration>
-    <itunes:episode>38</itunes:episode>
+    <itunes:episode>39</itunes:episode>
     <description>Iran-Krieg eskaliert, Ukraines 40-Tage-Operation, China sanktioniert US-Firmen.</description>
+  </item>
+
+  <item>
+    <title>News für Hannes — 29.06.2026 — Teil 4: KI</title>
+    <guid isPermaLink="false">https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-29-news-fuer-hannes-29-06-2026-teil-4-ki.mp3</guid>
+    <pubDate>Mon, 29 Jun 2026 00:00:00 GMT</pubDate>
+    <enclosure url="https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-29-news-fuer-hannes-29-06-2026-teil-4-ki.mp3" length="2654400" type="audio/mpeg"/>
+    <itunes:duration>2:46</itunes:duration>
+    <itunes:episode>38</itunes:episode>
+    <description>Österreich will Anthropic nach Europa holen, OpenAI zeigt GPT-5.6, US-Executive-Order als roter Faden.</description>
   </item>
 
   <item>
