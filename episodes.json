@@ -334,5 +334,13 @@
     "mp3_url": "https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-29-news-fuer-hannes-29-06-2026-teil-5-tech.mp3",
     "duration_seconds": 164,
     "file_size_bytes": 2622720
+  },
+  {
+    "date": "2026-06-29",
+    "title": "News für Hannes — 29.06.2026 — Teil 6: Märkte & Dein Tag",
+    "description": "Märkte-Snapshot, Münchner Wetter mit Golf-Verdikt, Kalender mit Terminkollision am Abend, Reminders und Posteingang.",
+    "mp3_url": "https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-29-news-fuer-hannes-29-06-2026-teil-6-maerkte-dein-tag.mp3",
+    "duration_seconds": 197,
+    "file_size_bytes": 3158880
   }
 ]
