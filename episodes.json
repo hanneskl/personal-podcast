@@ -326,5 +326,13 @@
     "mp3_url": "https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-29-news-fuer-hannes-29-06-2026-teil-4-ki.mp3",
     "duration_seconds": 166,
     "file_size_bytes": 2654400
+  },
+  {
+    "date": "2026-06-29",
+    "title": "News für Hannes — 29.06.2026 — Teil 5: Tech",
+    "description": "SSD-Preiskrise bei NAND, Oracle streicht 21.000 Stellen, GTA 6 Vorbestellungen.",
+    "mp3_url": "https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-29-news-fuer-hannes-29-06-2026-teil-5-tech.mp3",
+    "duration_seconds": 164,
+    "file_size_bytes": 2622720
   }
 ]
