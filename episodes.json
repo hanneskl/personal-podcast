@@ -310,5 +310,13 @@
     "mp3_url": "https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-29-news-fuer-hannes-29-06-2026-teil-2-usa.mp3",
     "duration_seconds": 157,
     "file_size_bytes": 2510880
+  },
+  {
+    "date": "2026-06-29",
+    "title": "News für Hannes — 29.06.2026 — Teil 3: Welt",
+    "description": "Iran-Krieg eskaliert, Ukraines 40-Tage-Operation, China sanktioniert US-Firmen.",
+    "mp3_url": "https://pub-8dc07ad20ae8447e9756b9e8a71073a9.r2.dev/episodes/2026-06-29-news-fuer-hannes-29-06-2026-teil-3-welt.mp3",
+    "duration_seconds": 195,
+    "file_size_bytes": 3120000
   }
 ]
